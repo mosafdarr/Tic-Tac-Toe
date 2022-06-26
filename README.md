@@ -1,0 +1,2 @@
+# Tic-Tac-Toe
+Tic-tac-toe consists of Xs and Os for two players who take turns marking the spaces in a three-by-three grid with X or O . The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. I have implemented it in python using object oriented programing and it's a single player game, second player is the computer. Computer take the move sharply.
